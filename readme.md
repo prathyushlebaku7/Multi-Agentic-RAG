@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## 📚 Creating Embeddings
 
-1. Place your PDF files into the `Asset_Management-1` folder.
+1. Place your PDF files into the `Asset_Management-1` folder and also replace the api key with OPEN AI API key.
 2. Run the embedding script:
 
 ```bash
