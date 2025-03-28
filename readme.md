@@ -56,9 +56,6 @@ multi-agentic-rag/
 
 ---
 
-Streamlit Demo:
-![image](https://github.com/user-attachments/assets/d4f4a0a6-05bd-4ad4-9a74-ba434d0baf49)
-
 ## 📫 Contact
 
 For issues or contributions, feel free to open an issue or submit a pull request.
